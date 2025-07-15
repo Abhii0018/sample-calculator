@@ -13,12 +13,12 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+    background: linear-gradient(45deg, #3f0303, #3a4452);
     
 }
 
 .calculator{
-    border: 1px solid #717377;
+    border: 2px solid #717377;
     padding: 25px;
     border-radius: 17px;
     background-color: transparent;
